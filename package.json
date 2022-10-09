@@ -1,0 +1,16 @@
+{
+  "name": "3create-airdrop",
+  "version": "1.0.0",
+  "description": "You NEED to add a file named .env with line containing PRIVATE_KEY that I have.",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1"
+  }
+}
